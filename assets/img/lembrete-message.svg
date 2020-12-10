@@ -1,0 +1,6 @@
+<svg id="reminder" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="email">
+    <rect id="Retângulo_4" data-name="Retângulo 4" width="48" height="48" rx="15" fill="#ffa101" opacity="0.3"/>
+    <path id="email-2" data-name="email" d="M19.708,4H2.292A2.406,2.406,0,0,0,0,6.5v11A2.406,2.406,0,0,0,2.292,20H19.708A2.406,2.406,0,0,0,22,17.5V6.5A2.406,2.406,0,0,0,19.708,4Zm.458,5.41-7.893,4.5A2.626,2.626,0,0,1,11,14.25a2.652,2.652,0,0,1-1.274-.34L1.833,9.41V7.15l8.736,4.98a.881.881,0,0,0,.862,0l8.736-4.98Z" transform="translate(13 12)" fill="#ffa101"/>
+  </g>
+</svg>

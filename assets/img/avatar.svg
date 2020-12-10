@@ -1,0 +1,16 @@
+<svg id="user" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89.998" height="100" viewBox="0 0 89.998 100">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Elipse_11" data-name="Elipse 11" cx="44.999" cy="44.999" r="44.999" transform="translate(0 0)" fill="#322a7d"/>
+    </clipPath>
+  </defs>
+  <circle id="Elipse_10" data-name="Elipse 10" cx="44.999" cy="44.999" r="44.999" transform="translate(0 10.002)" fill="#781e20"/>
+  <circle id="Elipse_6" data-name="Elipse 6" cx="4.45" cy="4.45" r="4.45" transform="translate(60.328 26.815)" fill="#d98f67"/>
+  <circle id="Elipse_7" data-name="Elipse 7" cx="4.45" cy="4.45" r="4.45" transform="translate(21.758 26.815)" fill="#d98f67"/>
+  <path id="Caminho_4" data-name="Caminho 4" d="M27.6,50.448,17,37.724V25H38.206V37.724Z" transform="translate(17.646 19.534)" fill="#d98f67"/>
+  <path id="Caminho_5" data-name="Caminho 5" d="M51.172,18.35c0-16.117-38.172-10.6-38.172,0V33.195a19.086,19.086,0,0,0,38.172,0Z" transform="translate(13.164 0.736)" fill="#e59e76"/>
+  <path id="Caminho_6" data-name="Caminho 6" d="M33.206,4C20.271,4,12,14.391,12,27.327V32.2l4.241,3.605v-10.6l25.448-8.483,8.483,8.483v10.6L54.413,32.2V27.327c0-8.483-2.121-16.965-12.724-19.086L39.568,4H33.206Z" transform="translate(12.043 -4)" fill="#000001"/>
+  <g id="Grupo_de_máscara_1" data-name="Grupo de máscara 1" transform="translate(0 10.002)" clip-path="url(#clip-path)">
+    <path id="Caminho_7" data-name="Caminho 7" d="M50.534,31h0a25.73,25.73,0,0,1-10.6,2.121A25.73,25.73,0,0,1,29.327,31S6,35.241,6,58.568L42.517,98.395,73.861,58.568C73.861,35.241,50.534,31,50.534,31Z" transform="translate(5.319 16.255)" fill="#ffa101"/>
+  </g>
+</svg>
