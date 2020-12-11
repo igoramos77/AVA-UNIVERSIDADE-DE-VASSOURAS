@@ -429,10 +429,6 @@ p {
   outline: none;
 }
 
-.zebra-box, .zebra-box-disable {
-  cursor: pointer;
-}
-
 .zebra-box .content-col {
   background: url('../img/zebra-bg.svg') center center #781e20;
   border-radius: .77rem;
