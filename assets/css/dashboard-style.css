@@ -421,6 +421,8 @@ p {
   color: #322A7D;
   font-weight: bold;
   width: 100%;
+  text-decoration: none;
+  font-size: .7rem;
 }
 
 .totvs:focus {
