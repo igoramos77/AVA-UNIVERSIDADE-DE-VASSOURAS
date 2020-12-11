@@ -58,6 +58,33 @@
   color: #BBC5D5;
   font-weight: bold;
 }
+/*  */
+/* SLECTION MOUSE COLOR */
+::selection {
+	background:#f51b59;
+	color:#fff;
+	}
+::-moz-selection {
+	background:#f51b59;
+	color:#fff;
+	}
+::-webkit-selection {
+	background:#f51b59;
+	color:#fff;
+	}
+::selection {
+	background:#f51b59;
+	color:#fff;
+	}
+::-moz-selection {
+	background:#f51b59;
+	color:#fff;
+	}
+::-webkit-selection {
+	background:#f51b59;
+	color:#fff
+}
+/* SLECTION MOUSE COLOR */
 
 html, body, .grid-container { height: 100%; margin: 0; }
 
@@ -110,7 +137,7 @@ p {
 
 .grid-container {
   display: grid;
-  grid-template-columns: minmax(77px, 0.13fr) 2fr 0.7fr;
+  grid-template-columns: minmax(77px, 0.13fr) 2fr minmax(360px, 0.7fr);
   grid-template-rows: 1fr;
   gap: 0px 0px;
   grid-template-areas:
@@ -130,6 +157,7 @@ p {
   }
 }
 .menu {
+  display: grid;
   grid-area: menu;
   background: #fff;
   border-right: .1rem solid #E2E7EE;
@@ -145,6 +173,10 @@ p {
   grid-area: sidebar;
   background: #fff;
   border-left: .1rem solid #E2E7EE;
+}
+
+.sidebar-container {
+  display: grid;
 }
 
 .logo {
@@ -208,6 +240,14 @@ p {
 .btn-red {
   color: #fff;
   background: var(--primary-color);
+}
+
+.btn-play {
+  font-size: .77rem;
+  color: #000;
+  background: #fff;
+  padding: 0.555rem;
+  margin-top: 1rem;
 }
 
 .shortcuts {
@@ -351,7 +391,7 @@ p {
 }
 
 .user-name {
-  font-size: 2.2rem;
+  font-size: 2rem;
   font-weight: 900;
 }
 
@@ -387,12 +427,18 @@ p {
   outline: none;
 }
 
-.zebra-box {
+.zebra-box, .zebra-box-disable {
   cursor: pointer;
 }
 
 .zebra-box .content-col {
   background: url('../img/zebra-bg.svg') center center #781e20;
+  border-radius: .77rem;
+  padding: 2rem;
+}
+
+.zebra-box-disable .content-col {
+  background: url('../img/zebra-bg-disable.svg') center center #BBB8B8;
   border-radius: .77rem;
   padding: 2rem;
 }
@@ -403,7 +449,17 @@ p {
   font-size: 1.4rem;
 }
 
+.zebra-box-disable .content-col h5 {
+  color: #fff;
+  font-weight: 900;
+  font-size: 1.4rem;
+}
+
 .zebra-box .content-col p {
+  color: #fff;
+}
+
+.zebra-box-disable .content-col p {
   color: #fff;
 }
 
@@ -526,4 +582,9 @@ p {
 
 .alerts p {
   color: #7F8FA4;
+}
+
+.date-send {
+  color: #ccc;
+  font-size: 10px;
 }

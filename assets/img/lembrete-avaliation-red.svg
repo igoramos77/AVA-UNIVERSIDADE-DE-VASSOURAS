@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="document" transform="translate(6.25 5.749)">
+    <path id="Caminho_84" data-name="Caminho 84" d="M28.912,10.463,21.037,2.588a1.021,1.021,0,0,0-.787-.337H9A2.256,2.256,0,0,0,6.75,4.5v27A2.256,2.256,0,0,0,9,33.751H27a2.256,2.256,0,0,0,2.25-2.25V11.25a1.022,1.022,0,0,0-.337-.787ZM20.25,4.95l6.3,6.3h-6.3ZM27,31.5H9V4.5h9v6.75a2.256,2.256,0,0,0,2.25,2.25H27Z" fill="#f35162"/>
+    <path id="Caminho_85" data-name="Caminho 85" d="M11.25,24.75h13.5V27H11.25Z" fill="#f35162"/>
+    <path id="Caminho_86" data-name="Caminho 86" d="M11.25,18h13.5v2.25H11.25Z" fill="#f35162"/>
+  </g>
+  <g id="Reminders">
+    <g id="reminder">
+      <g id="exclamation">
+        <rect id="Retângulo_4" data-name="Retângulo 4" width="48" height="48" rx="15" fill="#f35162" opacity="0.3"/>
+      </g>
+    </g>
+  </g>
+</svg>
